@@ -1,0 +1,179 @@
+@import './normalize.css';
+html{
+  font-size:100px;
+}
+
+.van-tabbar-item__icon{
+  font-size: 0.26rem;
+}
+
+.van-nav-bar__title{
+  color: #151515;
+  font-size: 0.16rem;
+}
+
+.van-nav-bar__content{
+  margin-bottom: 0.02rem;
+  height: 0.36rem;
+}
+
+.t-title{
+  color: #151515;
+  font-size: 0.16rem;
+}
+
+.t-bold{
+  font-weight: bold;
+}
+
+// 字体大小
+.t-12{
+font-size: 0.12rem;
+}
+
+.t-14{
+  font-size: 0.14rem;
+}
+
+.t-16{
+  font-size: 0.16rem;
+}
+
+.t-18{
+  font-size: 0.18rem;
+}
+
+.t-20{
+  font-size: 0.20rem;
+}
+
+.t-22{
+  font-size: 0.22rem;
+}
+
+.t-24{
+  font-size: 0.24rem;
+}
+
+
+.t-center{
+  text-align: center;
+}
+
+// 内边距
+.padding-10{
+  padding: 0.1rem;
+}
+
+.padding-left-10{
+  padding-left: 0.1rem;
+}
+
+.padding-right-10{
+  padding-right: 0.1rem;
+}
+
+.padding-top-10{
+  padding-top: 0.1rem;
+}
+
+.padding-bottom-4{
+  padding-bottom: 0.04rem;
+}
+
+.color-primary{
+  color: #c79d68;
+}
+.color-orange{
+  color: orange;
+}
+.color-6{
+  color: #666;
+  }
+.color-9{
+color: #999;
+}
+.bgc-primary{
+  background-color: #c79d68;
+}
+
+.text-ellipsis{
+  overflow:hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.flex{
+  display: flex;
+}
+
+.flex-evenly{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+ 
+.flex-between{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.flex-center{
+  align-items: center;
+}
+
+.flex-column{
+  flex-direction: column;
+}
+
+.flex-wrap{
+  flex-wrap: nowrap;
+}
+
+.display-inline-block{
+  display: inline-block;
+}
+
+.margin-left-10{
+  margin-left: 0.1rem;
+}
+.margin-right-10{
+  margin-right: 0.1rem;
+}
+.margin-top-10{
+  margin-top: 0.1rem;
+}
+.margin-bottom-10{
+  margin-bottom: 0.1rem;
+}
+.padding-left-10{
+  padding-left: 0.1rem;
+}
+.padding-right-10{
+  padding-right: 0.1rem;
+}
+
+.margin-left-5{
+  margin-left: 0.05rem;
+}
+.margin-right-5{
+  margin-right: 0.05rem;
+}
+.margin-bottom-5{
+  margin-bottom: 0.05rem;
+}
+.padding-left-5{
+  padding-left: 0.05rem;
+}
+.padding-right-5{
+  padding-right: 0.05rem;
+}
+
+.border-bottom{
+  border-bottom:1px solid #eee;
+}
+
+
+
